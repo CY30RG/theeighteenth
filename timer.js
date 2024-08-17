@@ -1,6 +1,6 @@
 $(document).ready(function() {
     // Set the target date
-    var targetDate = new Date("2024-08-17T20:03:00");
+    var targetDate = new Date("2024-08-18T00:00:00");
 
     var Countdown = {
         // Backbone-like structure
